@@ -53,8 +53,14 @@ I work with **Java 17 + Spring Boot**, RESTful APIs, microservices architecture,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mh001-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mh001-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mh001-code&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mh001-code&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
