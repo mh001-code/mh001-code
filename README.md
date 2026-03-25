@@ -22,7 +22,7 @@ I work with **Java 17 + Spring Boot**, RESTful APIs, microservices architecture,
 - 🏗️ Currently building a **full-stack SaaS management platform** for small businesses
 - ☁️ Experienced with **AWS (EC2, RDS, S3)**, Docker, and CI/CD pipelines
 - 🔐 Certified in **Google Cybersecurity** — familiar with security-first development
-- 📚 Studying **Software Engineering** at Estácio
+- 📚 Studying **Software Engineering** at UNESA
 
 ---
 
